@@ -1,9 +1,13 @@
 h1 { 
+font-family: arial;
+font-style: italic;
 color: white;
 text-align: center;
 }
 
-p{
- color: white;
-  text-align: center;
+p {
+font-family: arial;
+font-style: italic;
+color: white;
+ text-align: center;
 }
